@@ -33,10 +33,10 @@ Here is a summary of the performance of the various GARCH models were evaluated:
 ## Project Goals
 
 - Implement the GARCH(p, q) model.
-- Test the algorithm with various financial datasets.
-- Compare the performance of the GARCH model with other volatility models.
+- Test the algorithm with the SPY financial datasets.
+- Compare the performance various GARCH models.
 
-### GARCH Model Performance Summary
+## GARCH Model Performance Summary
 Below is a summary of the results obtained with basic p=1, q=1 parameter values
 
 | Model                                    | MSE        | MAE        | R²          |
@@ -47,8 +47,10 @@ Below is a summary of the results obtained with basic p=1, q=1 parameter values
 | Standard GARCH                           | 1.008652   | 0.670256   | -0.020206   |
 | APARCH                                   | 1.015525   | 0.671701   | -0.027159   |
 
+<br>
+
 <img width="1291" height="677" alt="GJR-Prediction Chart" src="https://github.com/user-attachments/assets/73aca6cb-2c33-4024-a6bc-28b18657d365" />
 
 ## Getting Started
 
-Each notebook can be run independently. Each notebook will pull the data from Yahoo Finance a perform the analysis of it respective model.
+Each notebook can be run independently. Google Colab was used for the creation of the notebooks and in the recommended environment for executing them. Each notebook will pull the data from Yahoo Finance a perform the analysis of it respective model.
