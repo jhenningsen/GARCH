@@ -23,6 +23,8 @@ Below is a summary of the results obtained with basic p=1, q=1 parameter values
 | Standard GARCH                           | 1.008652   | 0.670256   | -0.020206   |
 | APARCH                                   | 1.015525   | 0.671701   | -0.027159   |
 
+<img width="1291" height="677" alt="GJR-Prediction Chart" src="https://github.com/user-attachments/assets/73aca6cb-2c33-4024-a6bc-28b18657d365" />
+
 ## Getting Started
 
 Each notebook can be run independently. Each notebook will pull the data from Yahoo Finance a perform the analysis of it respective model.
