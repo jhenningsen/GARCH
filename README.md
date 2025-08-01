@@ -13,6 +13,7 @@ The GARCH model is a statistical model used in econometrics and financial analys
 - Compare the performance of the GARCH model with other volatility models.
 
 ### GARCH Model Performance Summary
+Below is a summary of the results obtained with basic p=1, q=1 parameter values
 
 | Model                                    | MSE        | MAE        | R²          |
 | :--------------------------------------- | :--------- | :--------- | :---------- |
